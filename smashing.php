@@ -2,7 +2,7 @@
 /*
 	Plugin Name: Batman Plugin
 	Description: This is for updating your Wordpress plugin.
-	Version: 2.0.0
+	Version: 3.0.0
 	Author: Cody Collicott 
 	Author URI: http://www.strat.com
 */
