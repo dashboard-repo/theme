@@ -2,9 +2,9 @@
 /*
 	Plugin Name: Batman Plugin
 	Description: This is for updating your Wordpress plugin.
-	Version: 1.0.0
+	Version: 2.0.0
 	Author: Cody Collicott 
-	Author URI: http://www.matthewray.com
+	Author URI: http://www.strat.com
 */
 if( ! class_exists( 'Smashing_Updater' ) ){
 	include_once( plugin_dir_path( __FILE__ ) . 'updater.php' );
